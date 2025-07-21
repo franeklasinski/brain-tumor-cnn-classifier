@@ -56,6 +56,9 @@ Model zapewnia:
 
 ## Wizualizacja
 
+<img width="1047" height="783" alt="Zrzut ekranu 2025-07-21 o 14 21 59" src="https://github.com/user-attachments/assets/be7c4bc8-7035-46a3-86d2-3c1ea41d5165" />
+
+
 Projekt zawiera kompleksowe narzędzia wizualizacji:
 - Wyświetlanie przykładowych obrazów
 - Krzywe strat treningu/walidacji
